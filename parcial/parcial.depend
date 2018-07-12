@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1525740013 source:c:\users\alumno\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1525732275 c:\users\alumno\desktop\parcial\libreria.h
+
+1525739493 source:c:\users\alumno\desktop\parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1525740141 source:c:\users\alumno\desktop\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526934927 source:c:\users\thomas\desktop\roman\cursoingresojs-master\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1525726272 c:\users\thomas\desktop\roman\cursoingresojs-master\parcial\libreria.h
+
+1526933256 source:c:\users\thomas\desktop\roman\cursoingresojs-master\parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526935707 source:c:\users\thomas\desktop\roman\cursoingresojs-master\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526933387 source:c:\users\thomas\desktop\roman\cursoingresojs-master\parcial\listar.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526944932 source:c:\users\alumno\desktop\cursoingresojs-master\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
+1526942610 c:\users\alumno\desktop\cursoingresojs-master\parcial\libreria.h
+
+1526936007 source:c:\users\alumno\desktop\cursoingresojs-master\parcial\listar.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526943955 source:c:\users\alumno\desktop\cursoingresojs-master\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526936007 source:c:\users\alumno\desktop\cursoingresojs-master\parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526936007 source:c:\users\alumno\desktop\pellitta\listar.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526942610 c:\users\alumno\desktop\pellitta\libreria.h
+
+1526943955 source:c:\users\alumno\desktop\pellitta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1526936007 source:c:\users\alumno\desktop\pellitta\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
